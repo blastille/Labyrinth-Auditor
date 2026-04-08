@@ -59,7 +59,7 @@ You will be prompted to configure:
 
 ---
 
-## 📁 Output
+## Output
 
 * `labyrinth.db` → SQLite database
 * `results.json` → Extracted credential data
