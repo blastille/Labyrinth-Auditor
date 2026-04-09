@@ -92,4 +92,4 @@ See [DISCLAIMER.md](./DISCLAIMER.md)
 
 ## License
 
-MIT License (recommended)
+MIT License
